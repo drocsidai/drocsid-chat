@@ -24,7 +24,7 @@ A demonstration chat application showcasing the capabilities of drocsid-message 
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/drocsid-chat.git
+git clone https://github.com/drocsidai/drocsid-chat
 cd drocsid-chat
 npm install
 ```
